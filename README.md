@@ -16,6 +16,9 @@ _this is a picture of me._
 + Github
 + General computer literacy; 3 years clerical work
 
+## My Projects
+My Coding projects are listed in the [projects folder](projects) HTML and Python.
+
 ### Strengths
 + Attention to detail
 + Problem solving
