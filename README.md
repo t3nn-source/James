@@ -8,6 +8,17 @@ education and start a career.
 
 _this is a picture of me._
 
+## Skills
+
+### Coding
++ HTML
++ Python
++ Github
++ General computer literacy; 3 years clerical work
+
+### Strengths
++ Attention to detail
++ Problem solving
 
 ## Career Experience 
 
